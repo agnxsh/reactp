@@ -2,7 +2,7 @@
   "name": "reactp",
   "version": "0.1.0",
   "private": "false",
-  "homepage": "https://github.io/agnxsh/reactp",
+  "homepage": "https://github.com/agnxsh/reactp",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
