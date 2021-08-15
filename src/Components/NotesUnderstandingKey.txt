@@ -1,0 +1,24 @@
+whenever we add a new item to the div we get to see 
+in the Chrome Developer Tools that the last item flashes
+ie, a new div is created at the very bottom of the list
+however in the React interface the new item is added on the top of the list.
+So what actually happens is that React renders this last item in the list of divs
+and updates all the other items and replaces their content  
+
+Before rendering data on the viewport, React stacks on array after another and updates the content
+of these arrays sequentially. However this entire process takes alot of time and the performance
+is significantly compromised. We could run after bugs as well.
+
+Therefore to avoid these scenarios we add the KEY item, it essentially helps React understand and specifically distinguish
+these HTML divs.
+
+Once we do that the React won't really flash and replace the items anymore.
+However it will uniquely distinguish these divs and store in the given way it's entered.
+Thereby not creating any form of performance bugs.
+
+The second part of the module deals with conditional content. Conditional content is about rendering 
+different content with respect to different programming logic. 
+
+In Javascript, if we use the && operator it returns everything after that && operator.
+
+So if the first condition is met then the control flows to the second condition automatically.
