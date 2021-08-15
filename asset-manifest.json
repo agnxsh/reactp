@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/agnxsh/reactp/static/css/main.78dba376.chunk.css",
+    "main.js": "/agnxsh/reactp/static/js/main.59088753.chunk.js",
+    "main.js.map": "/agnxsh/reactp/static/js/main.59088753.chunk.js.map",
+    "runtime-main.js": "/agnxsh/reactp/static/js/runtime-main.1fd735c1.js",
+    "runtime-main.js.map": "/agnxsh/reactp/static/js/runtime-main.1fd735c1.js.map",
+    "static/js/2.7a4fada0.chunk.js": "/agnxsh/reactp/static/js/2.7a4fada0.chunk.js",
+    "static/js/2.7a4fada0.chunk.js.map": "/agnxsh/reactp/static/js/2.7a4fada0.chunk.js.map",
+    "index.html": "/agnxsh/reactp/index.html",
+    "static/css/main.78dba376.chunk.css.map": "/agnxsh/reactp/static/css/main.78dba376.chunk.css.map",
+    "static/js/2.7a4fada0.chunk.js.LICENSE.txt": "/agnxsh/reactp/static/js/2.7a4fada0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1fd735c1.js",
+    "static/js/2.7a4fada0.chunk.js",
+    "static/css/main.78dba376.chunk.css",
+    "static/js/main.59088753.chunk.js"
+  ]
+}
